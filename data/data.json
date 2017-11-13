@@ -1,0 +1,42 @@
+[
+  {
+    "first_name":"Mock",
+    "last_name":"User",
+    "lan_id":"123456",
+    "email_id":"Mock.User1@test.com",
+    "internal":"true",
+    "company_name": "Mock"
+  },
+  {
+    "first_name":"Mock",
+    "last_name":"User",
+    "lan_id":"123457",
+    "email_id":"Mock.User2@test.com",
+    "internal":"true",
+    "company_name": "Mock"
+  },
+  {
+    "first_name":"Mock",
+    "last_name":"User",
+    "lan_id":"123458",
+    "email_id":"Mock.User3@test.com",
+    "internal":"false",
+    "company_name": "Mock"
+  },
+  {
+    "first_name":"Mock",
+    "last_name":"User",
+    "lan_id":"123459",
+    "email_id":"Mock.User4@test.com",
+    "internal":"false",
+    "company_name": "Mock"
+  },
+  {
+    "first_name":"Mock",
+    "last_name":"User",
+    "lan_id":"123460",
+    "email_id":"Mock.User5@test.com",
+    "internal":"true",
+    "company_name": "Mock"
+  }
+]
